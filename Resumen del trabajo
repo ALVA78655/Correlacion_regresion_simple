@@ -1,5 +1,0 @@
-En el análisis de la regresión lineal tenemos 3 correlaciones que se vuelven relevante: precio vs monto financiado vs costo total, de estos 3 correlaciones podemos ver que el mejor modelo es el de 
-monto financiado y costo total como variables independientes y precio como variable dependiente. Este tiene una correlacion de 0.95 y en las predicciones vemos una efectividad de cerca de 150 arriba y 150 abajo del valor original.
-Las decisiones las tomamos en base a los gráficos al inicio y al mapa de calor, al poder ver las correlaciones dentro del mapa tomamos la decisión de utilizar esos modelos en base a el alto valor de correlación.
-El comportamiento de la variable semana y pago realizado es independiente del precio, es decir que dependen de algunos factores diferentes que el precio al ser incluidas en la base de datos.
-Como conclusión del modelo, el precio depende del monto financiado y el costo total, ya que, nos puede ayudar a predecir el valor futuro dentro del rango de 0.5% de error permitido.
